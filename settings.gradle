@@ -1,0 +1,3 @@
+include ':app', ':sunmiprinterutill'
+rootProject.name = "LuckyTimes"
+include ':app'
